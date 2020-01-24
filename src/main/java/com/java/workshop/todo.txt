@@ -1,0 +1,32 @@
+
+TODO
+por konandeye form maloom bashad
+
+
+
+
+Done:
+createPlace
+createInstructor
+then come back to createSession
+change vaziat grader
+controller baraye grader va student
+check if filledforms move with the student
+cancel grader
+pay
+ghestbandi
+index 0 group
+change student status
+search
+pishniaz grader
+saakhte workshope ghesti
+tadakhol
+
+for powerpoint:
+design (+ used design pattern)
+modules
+use case
+estefade az api/v1 va Long
+category dar create workshop
+age category nabood ezafe konad
+
