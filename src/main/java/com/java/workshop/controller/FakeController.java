@@ -16,9 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.*;
 
-// ye chize alaki inja
-// do
-
 @RestController
 @CrossOrigin(origins = "*")
 @RequestMapping("api/v1")
