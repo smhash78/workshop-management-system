@@ -15,7 +15,7 @@ import com.java.workshop.model.workshop.SessionRegisterStatus;
 import com.java.workshop.model.workshop.Workshop;
 import com.java.workshop.model.workshop.WorkshopSession;
 import com.java.workshop.repository.*;
-import javassist.NotFoundException;
+import javassist.NotFoundException;wedd
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
